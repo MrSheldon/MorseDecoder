@@ -1,2 +1,2 @@
-# MorseDecoder
-A morse decoder made with Arduino
+# morse-decoder
+A simple morse decoder made with Arduino
